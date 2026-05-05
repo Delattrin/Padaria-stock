@@ -1,3 +1,4 @@
+> 🔁 Este projeto faz parte de uma série de evolução. Acompanhe a progressão: [sistema-padaria](https://github.com/Delattrin/sistema-padaria) → [sistema-padaria-oop](https://github.com/Delattrin/sistema-padaria-oop) → [sistema-notificacoes-padaria](https://github.com/Delattrin/sistema-notificacoes-padaria) → **Padaria-stock**
 # 🥖 PadariaStock
 
 Sistema de controle de estoque para a padaria da minha família, desenvolvido em Java com foco em Orientação a Objetos. O projeto demonstra na prática herança, polimorfismo e interfaces aplicados a um problema real.
