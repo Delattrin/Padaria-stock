@@ -3,7 +3,8 @@
 Sistema de controle de estoque para a padaria da minha família, desenvolvido em Java com foco em Orientação a Objetos. O projeto demonstra na prática herança, polimorfismo e interfaces aplicados a um problema real.
 
 ## 📸 Preview
-![Sistema rodando no terminal](screenshot.png)
+![Sistema rodando no terminal](<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/7f8f5e67-fb26-447c-9642-abe56f7b6870" />
+)
 
 ## 🏗️ Estrutura do projeto
 
